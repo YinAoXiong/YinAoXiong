@@ -1,4 +1,10 @@
 
+# import my GPG keys
+
+GPG key ID: 7FD1C159A77940B8
+
+`curl https://keybase.io/yinaoxiong/pgp_keys.asc | gpg --import`
+
 ![](https://github-readme-stats.vercel.app/api?username=YinAoXiong&show_icons=true&theme=radical)
 
 
